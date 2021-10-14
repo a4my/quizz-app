@@ -57,7 +57,7 @@ body {
   font-size: 1.6rem;
 }
 
-.quizz-container {
+.quiz-container {
   background-color: #fff;
   border-radius: 1rem;
   box-shadow: 0 0 1rem 2px rgba(100, 100, 100, 0.1);
@@ -65,7 +65,7 @@ body {
   overflow: hidden;
 }
 
-.quizz-header {
+.quiz-header {
   padding: 4rem;
 }
 
